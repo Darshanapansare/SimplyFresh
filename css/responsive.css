@@ -1,0 +1,153 @@
+@media screen and (max-width: 600px) {
+    .main-header {
+        background-image: url(../img/banner1.png);
+        height: 50vh;
+        color: white;
+        position: relative;
+        margin: 10px;
+        border-radius: 20px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: top;
+        object-fit: fill;
+    }
+
+    .play-button-wrapper #circle-play-b svg {
+        width: 70px;
+        height: 70px;
+    }
+
+    #simplyFreshNav .navbar-brand img {
+        width: 100px;
+    }
+
+    .profile-card__cnt {
+        padding: 0 10px;
+    }
+
+    a.btn-click-here {
+        width: 50%;
+    }
+
+    .ft-sub-menu ul {
+        padding-left: 0rem;
+    }
+
+    .founder-msg-title h2 {
+        text-align: center;
+    }
+
+    .sf-section-2 p,
+    .sf-section {
+        font-size: 24px;
+    }
+
+    .share-now {
+        text-align: center;
+        padding-top: 0;
+    }
+
+    .prod2 {
+        margin-top: 20px;
+    }
+
+    .pro_title p {
+        font-size: 20px;
+    }
+
+    .custom-container {
+        padding: 1rem;
+    }
+
+    #product .prod-title h2 {
+        color: #EB2B36;
+        font-weight: 700;
+        font-size: 24px;
+        padding-bottom: 15px;
+        text-align: left;
+        padding-top: 20px;
+    }
+
+    .custom-title {
+        font-size: 24px;
+        font-weight: 700;
+        color: #000;
+        margin-bottom: 1.5rem;
+    }
+
+    .show_more_less {
+        padding-top: 0;
+    }
+
+    #product .big-title h2 {
+        padding-bottom: 35px;
+    }
+
+    .stories-Data .card-title {
+        font-size: 16px;
+        font-weight: 700;
+        text-align: right;
+        text-decoration: none;
+    }
+
+    .inner-link-right {
+        text-align: left;
+        padding-top: 20px;
+    }
+
+    .content-banner h2 {
+        font-size: 18px;
+        font-weight: 300;
+        padding: 15px;
+        color: #000;
+    }
+
+    .content-banner b {
+        color: #000;
+        font-weight: 800;
+    }
+
+    .btn-know-more-banner {
+        display: none;
+    }
+
+    .content-banner {
+        top: 0;
+    }
+
+    .custom-indicators {
+        display: none;
+    }
+
+    .slider-container {
+        max-width: 100%;
+        margin-left: auto;
+    }
+
+    .mini_slider_head {
+        margin-bottom: 0;
+        font-size: 13px;
+        letter-spacing: 0.9px;
+    }
+
+    .mini_slider_desc {
+        font-size: 13px;
+        letter-spacing: 0.9px;
+    }
+
+    .mini_slider_head,
+    .mini_slider_desc {
+        padding-left: 10px;
+    }
+
+    .testimonial-card {
+        width: 90%;
+    }
+
+    #homePageCarousel {
+        top: 0%;
+        position: relative;
+    }
+}
+
+@media screen and (max-width: 768px) {}
